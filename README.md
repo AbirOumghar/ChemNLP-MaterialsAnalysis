@@ -8,7 +8,7 @@
 <ul>
   <li>Develop <span style="font-weight:bold;">ChemNLP</span> for advanced NLP applications in materials chemistry.</li>
   <li>Curate datasets from <span style="font-weight:bold;">arXiv</span> and <span style="font-weight:bold;">PubChem</span> for subsequent NLP processing.</li>
-  <li>Compare and develop machine learning models for data classification.</li>
+  <li>Compare and develop Machine Learning models for data classification.</li>
   <li>Tackle domain-specific challenges and generate abstract summaries.</li>
   <li>Integrate with datasets like <span style="font-weight:bold;">Density Functional Theory</span> for enriched data analysis.</li>
   <li>Build a robust infrastructure to advance research in materials chemistry.</li>
@@ -44,7 +44,7 @@
 <p>The technical workflow of our project encompasses:</p>
 <ul>
   <li>Utilization of advanced NLP techniques for text analysis within the domain of materials chemistry.</li>
-  <li>Implementation of machine learning algorithms for data classification and named entity recognition.</li>
+  <li>Implementation of Machine Learning algorithms for data classification and named entity recognition.</li>
   <li>Application of dimensionality reduction techniques such as PCA, t-SNE, and UMAP for insightful data visualization.</li>
   <li>Usage of serialized pickle files for effective data management and reproducibility of results.</li>
 </ul>
