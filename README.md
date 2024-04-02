@@ -4,10 +4,14 @@
 <p>This project extends the ChemNLP library to meet the complex challenges of materials chemistry through NLP. Created for a Master's thesis at the University of Paris, we aim to automate the classification and recognition of chemical documents using the latest NLP techniques for in-depth text analysis.</p>
 
 <h2>Objectives</h2>
+<p>The main objectives of the ChemNLP library, as refined by this research, are to:</p>
 <ul>
-  <li>Extend ChemNLP with the latest NLP advancements.</li>
-  <li>Employ advanced ML models for improved classification and entity recognition.</li>
-  <li>Showcase the library's strength across diverse chemical datasets.</li>
+  <li>Develop ChemNLP for advanced NLP applications in materials chemistry.</li>
+  <li>Curate datasets from arXiv and PubChem for subsequent NLP processing.</li>
+  <li>Compare and develop machine learning models for data classification.</li>
+  <li>Tackle domain-specific challenges and generate abstract summaries.</li>
+  <li>Integrate with datasets like Density Functional Theory for enriched data analysis.</li>
+  <li>Build a robust infrastructure to advance research in materials chemistry.</li>
 </ul>
 
 <h2>Team</h2>
@@ -44,6 +48,3 @@
 
 <h2>Conclusion</h2>
 <p>Our study has successfully advanced the application of NLP in materials chemistry. We have highlighted innovative applications while critically addressing specific challenges. This project paves the way for future research, establishing new frontiers in materials science and NLP.</p>
-
-<h2>License</h2>
-<p>This project is open-sourced under the MIT License - see the LICENSE file for details.</p>
