@@ -1,7 +1,7 @@
 <h1 align="center">ChemNLP-MaterialsAnalysis</h1>
 
 <h2>Introduction</h2>
-This project extends the ChemNLP library to meet the complex challenges of materials chemistry through NLP. Created for a Master's thesis at the University of Paris, we aim to automate the classification and recognition of chemical documents using the latest NLP techniques for in-depth text analysis.
+<p>This project extends the ChemNLP library to meet the complex challenges of materials chemistry through NLP. Created for a Master's thesis at the University of Paris, we aim to automate the classification and recognition of chemical documents using the latest NLP techniques for in-depth text analysis.</p>
 
 <h2>Objectives</h2>
 <ul>
@@ -18,41 +18,32 @@ This project extends the ChemNLP library to meet the complex challenges of mater
   <li>Hafsa Boanani</li>
 </ul>
 
-<h2>Technical Workflow</h2>
-
-<h3>Data Preparation</h3>
-<p>Employing arXiv and PubChem datasets to showcase ChemNLP's broad scientific text applications.</p>
-
-<h3>Feature Engineering</h3>
-<p>Integration of BERT embeddings for advanced chemical terminology insights and application of dimensionality reduction techniques like PCA, t-SNE, and UMAP.</p>
-
-<h1 align="center">ChemNLP-MaterialsAnalysis</h1>
-
-<!-- Other sections remain unchanged -->
-
 <h2>Repository Structure</h2>
-<p>This repository is structured into several directories:</p>
+<p>The repository includes several key components critical to our analysis:</p>
 <ul>
-  <li><strong>notebooks/</strong>: Contains Jupyter notebooks that detail the project's methodology and findings. The notebooks are titled as follows:
+  <li><strong>notebooks/</strong>: A collection of Jupyter notebooks that capture the project's comprehensive methodology and results. The notebooks included are:</li>
     <ul>
-      <li>_ChemNLP Oumghar_Boanani_Belkaid_Part1.ipynb</li>
-      <li>_ChemNLP_Oumghar_Boanani_Belkaid_Part2.ipynb</li>
-      <li>_ChemNLP Oumghar_Boanani_Belkaid_Part3.ipynb</li>
+      <li>ChemNLP_Part1: Data Preprocessing and Initial Exploration</li>
+      <li>ChemNLP_Part2: Feature Engineering and Model Training</li>
+      <li>ChemNLP_Part3: Model Evaluation and Result Interpretation</li>
     </ul>
-  </li>
-  <li><strong>pickles/</strong>: Includes serialized Python objects with model states and processed data, which are used to speed up the research process and ensure reproducibility.</li>
-  <li><strong>Report/</strong>: Contains the detailed project report which discusses the research and outcomes in depth.</li>
+  <li><strong>pickles/</strong>: Serialized Python objects containing model states and preprocessed data to expedite the research process and ensure reproducibility.</li>
+  <li><strong>Report/</strong>: The detailed project report provides an in-depth analysis and discussion of the research conducted and outcomes achieved.</li>
 </ul>
 
-<p>For those interested in the underlying ChemNLP library upon which this project is built, visit the original ChemNLP project at:
-<a href="https://github.com/usnistgov/chemnlp">github.com/usnistgov/chemnlp</a></p>
+<p>To explore the foundational work that our project builds upon, please visit the original ChemNLP project here: <a href="https://github.com/usnistgov/chemnlp">ChemNLP on GitHub</a>.</p>
 
-<!-- Conclusion and other sections remain unchanged -->
+<h2>Technical Workflow</h2>
+<p>The technical workflow of our project encompasses:</p>
+<ul>
+  <li>Utilization of advanced NLP techniques for text analysis within the domain of materials chemistry.</li>
+  <li>Implementation of machine learning algorithms for data classification and named entity recognition.</li>
+  <li>Application of dimensionality reduction techniques such as PCA, t-SNE, and UMAP for insightful data visualization.</li>
+  <li>Usage of serialized pickle files for effective data management and reproducibility of results.</li>
+</ul>
 
+<h2>Conclusion</h2>
+<p>Our study has successfully advanced the application of NLP in materials chemistry. We have highlighted innovative applications while critically addressing specific challenges. This project paves the way for future research, establishing new frontiers in materials science and NLP.</p>
 
-<h3>Clustering and Analysis</h3>
-<p>Implementation of KMeans Clustering for document categorization and t-SNE, UMAP visualizations for revealing complex data relationships.</p>
-
-<h3>Serialization and Storage</h3>
-<p>Utilizing pickle files for model state serialization and large dataset storage, significantly enhancing research efficiency and reproducibility.</p>
-
+<h2>License</h2>
+<p>This project is open-sourced under the MIT License - see the LICENSE file for details.</p>
