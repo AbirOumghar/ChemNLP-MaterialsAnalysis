@@ -27,9 +27,9 @@
 <ul>
   <li><strong style="color:#8A2BE2;">notebooks/</strong>: A collection of Jupyter notebooks that capture the project's comprehensive methodology and results. The notebooks included are:</li>
     <ul>
-      <li><a href="YOUR_REPO_PATH_HERE/ChemNLP_Part1.ipynb">ChemNLP_Part1: Data Preprocessing and Initial Exploration</a></li>
-      <li><a href="YOUR_REPO_PATH_HERE/ChemNLP_Part2.ipynb">ChemNLP_Part2: Feature Engineering and Model Training</a></li>
-      <li><a href="YOUR_REPO_PATH_HERE/ChemNLP_Part3.ipynb">ChemNLP_Part3: Model Evaluation and Result Interpretation</a></li>
+      <li><a href="https://github.com/AbirOumghar/ChemNLP-MaterialsAnalysis/blob/main/notebooks/ChemNLP_%20Oumghar_Boanani_Belkaid_Part1.ipynb">ChemNLP_Part1: Data Preprocessing and Initial Exploration</a></li>
+      <li><a href="https://github.com/AbirOumghar/ChemNLP-MaterialsAnalysis/blob/main/notebooks/_ChemNLP_Oumghar_Boanani_Belkaid_Part2.ipynb">ChemNLP_Part2: Feature Engineering and Model Training</a></li>
+      <li><a href="https://github.com/AbirOumghar/ChemNLP-MaterialsAnalysis/blob/main/notebooks/_ChemNLP%20Oumghar_Boanani_Belkaid_Part3.ipynb">ChemNLP_Part3: Model Evaluation and Result Interpretation</a></li>
     </ul>
 
   <li><strong style="color:#8A2BE2;">pickles/</strong>: Serialized Python objects containing model states and preprocessed data to expedite the research process and ensure reproducibility.</li>
