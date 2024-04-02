@@ -36,7 +36,7 @@
   <li><strong style="color:#8A2BE2;">Report/</strong>: The detailed project report provides an in-depth analysis and discussion of the research conducted and outcomes achieved.</li>
 </ul>
 
-<p><strong>Note:</strong> The provided pickle files in the <strong>pickles/</strong> directory contain all the necessary preprocessed data and model states. You can directly utilize these to run the second notebook, <strong>ChemNLP_Part2: Feature Engineering and Model Training</strong>, which allows for immediate continuation of the analysis without the need for initial data processing steps.</p>
+<p><strong>Note:</strong> The provided pickle files in the <strong><a href="https://github.com/AbirOumghar/ChemNLP-MaterialsAnalysis/tree/main/pickles">pickles/</strong></a> directory contain all the necessary preprocessed data and model states. You can directly utilize these to run the second notebook, <strong>ChemNLP_Part2: Feature Engineering and Model Training</strong>, which allows for immediate continuation of the analysis without the need for initial data processing steps.</p>
 
 <p>To explore the foundational work that our project builds upon, please visit the original <span style="font-weight:bold; color:#DAA520;">ChemNLP</span> project here: <a href="https://github.com/usnistgov/chemnlp">ChemNLP on GitHub</a>.</p>
 
